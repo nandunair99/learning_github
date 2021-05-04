@@ -9,3 +9,4 @@ print("hello nandu sir")
 print("hello manu sir")
 
 print("now we are generating new code exlusively for daali1")
+print("Nandu is rockstar in  DAali")
